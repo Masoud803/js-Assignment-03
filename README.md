@@ -1,2 +1,2 @@
-# js_Assignment_03
+# js-Assignment-03
 Repositiry for SMIT javascript assignment
